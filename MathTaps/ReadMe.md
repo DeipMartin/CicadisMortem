@@ -1,4 +1,4 @@
-#MathTaps
+# MathTaps
 
 Wolfgang Amadeus Mozart (1756-1791) compuso la obra Musikalisches Würfelspiel, singular creación artística en la que el ingenio del músico lo llevó a componer no una pieza para piano sino un generador de valses. Esto es, la obra no contiene una partitura para un pequeño vals de 16 compases sino que tiene un sistema que, apoyado en el azar, puede generar un número mucho muy grande de valses diferentes de 16 compases cada uno. 
 Mozart escribió 176 compases numerados del 1 al 176 y los agrupó en 16 conjuntos de 11 compases cada uno. El procedimiento para generar un vals particular a partir de esta combinación de habilidad en la composición y el uso del azar, consiste en que cada compás del 1 al 16 se selecciona con unos dados, del correspondiente conjunto de 11 compases. Estos 16 conjuntos o columnas de números, que identifican cada uno de los 176 compases.
